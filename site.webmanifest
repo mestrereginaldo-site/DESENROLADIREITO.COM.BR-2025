@@ -1,0 +1,30 @@
+{
+  "name": "Dr. Reginaldo - Advogado Nômade Premium",
+  "short_name": "Dr. Reginaldo",
+  "description": "Consultoria jurídica estratégica premium para empresas inovadoras",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#1a365d",
+  "icons": [
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/maskable-icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "categories": ["business", "legal"],
+  "lang": "pt-BR",
+  "orientation": "portrait"
+}
